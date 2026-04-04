@@ -22,6 +22,10 @@
 
 <p align="left">📚 Currently learning Python 🐍 and diving into libraries like NumPy, Pandas, and Flask<br><br>🌐 Passionate about web development, building dynamic and user-friendly applications<br><br>💡 Love solving problems & experimenting with backend logic<br><br>🎯 Goal: Full-stack developer 🚀</p>
 
+<br>
+<hr style="border: 1px solid #444;"/>
+
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -54,6 +58,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+<br>
+<hr style="border: 1px solid #444;"/>
+
+
 ###
 
 <h2 align="left">🚀 Projects</h2>
@@ -62,6 +70,10 @@
 
 <p align="center">🚧 Coming Soon...🚧<br>stay tuned...</p>
 
+<br>
+<hr style="border: 1px solid #444;"/>
+
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -69,12 +81,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<br>
+<hr style="border: 1px solid #444;"/>
+
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-me/Omkar-me/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-me/Omkar-me/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Omkar-me/Omkar-me/output/pacman-contribution-graph.svg">
 </picture>
+
+<br>
+<hr style="border: 1px solid #444;"/>
+
 
 ###
 
