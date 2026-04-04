@@ -6,8 +6,8 @@
 
 
 <h1 align="center">Heyy Buddy!!! Sanika Here</h1>
-<br>
-<hr style="border: 1px solid #444;"/>
+
+
 <h3 align="center">💻 Computer Engineering Student </h3>
 
 
@@ -16,8 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Crafting+Modern+Web+Experiences;Building+Scalable+and+Smart+Solutions;Learning+Everyday%2C+Growing+Everyday;Turning+Ideas+into+Code" />
 </p>
 
-<br>
-<hr style="border: 1px solid #444;"/>
+
 
 
 <div align="center">
@@ -26,6 +25,7 @@
 
 ###
 <br>
+
 <hr style="border: 1px solid #444;"/>
 
 <h2 align="left">About me</h2>
