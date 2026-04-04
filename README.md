@@ -10,6 +10,10 @@
 
 <p align="left">Hii, Sanika here!!!<br>A B-tech CSE student | C++ | Python | HTML Building projects and exploring tech</p>
 
+<br>
+<hr style="border: 1px solid #444;"/>
+
+
 ###
 
 <h2 align="left">About me</h2>
