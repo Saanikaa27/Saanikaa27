@@ -1,4 +1,16 @@
-<h1 align="left">Hey 👋 Buddy!!!</h1>
+
+<!-- 🌌 Background Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Sanika%20%7C%20Full%20Stack%20Developer&fontSize=40&color=0:0f2027,100:2c5364&fontColor=ffffff"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Sanika</h1>
+<h3 align="center">💻 Computer Engineering Student | Full Stack Developer (in progress)</h3>
+
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Crafting+Modern+Web+Experiences;Building+Scalable+and+Smart+Solutions;Learning+Everyday%2C+Growing+Everyday;Turning+Ideas+into+Code" />
+</p>
 
 ###
 
@@ -7,8 +19,6 @@
 </div>
 
 ###
-
-<p align="left">Hii, Sanika here!!!<br>A B-tech CSE student | C++ | Python | HTML Building projects and exploring tech</p>
 
 ###
 
@@ -88,3 +98,4 @@
 </div>
 
 ###
+
