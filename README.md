@@ -2,7 +2,7 @@
 <!-- 🌌 Background Banner -->
 
 
-<h1 align="center">Hi 👋, I'm Sanika</h1>
+<h1 align="center">Heyy Buddy!!! Sanika Here</h1>
 <h3 align="center">💻 Computer Engineering Student </h3>
 
 <!-- ✨ Typing Animation -->
