@@ -1,7 +1,6 @@
 
 
 
-
 <!-- 🌌 Background Banner -->
 
 
@@ -79,11 +78,28 @@
 
 ###
 
-<p align="center">🚧 Coming Soon...🚧<br>stay tuned...</p>
+<p align="center">https://asset-manager--vaishalijbarhat.replit.app<br></p>
+<html>
+<body>
+  <div class="card">
+    <h1>Smart Construction Platform</h1>
+    <p>
+      Track <span class="highlight">workers</span>, 
+      <span class="highlight">tasks</span>, 
+      <span class="highlight">payments</span>, 
+      <span class="highlight">inventory</span>, and 
+      <span class="highlight">invoices</span> — all in one 
+      <span class="highlight">powerful platform</span> built for construction professionals.
+    </p>
+  </div>
+
+</body>
+</html>
+
 
 <br>
 <hr style="border: 1px solid #444;"/>
-###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=S&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
