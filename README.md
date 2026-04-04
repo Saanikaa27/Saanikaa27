@@ -1,8 +1,5 @@
 
-<!-- 🌌 Background Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Sanika%20&color=0:0f2027,100:2c5364&fontColor=ffffff"/>
-</p>
+
 
 
 <!-- 🌌 Background Banner -->
