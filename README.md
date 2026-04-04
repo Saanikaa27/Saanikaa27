@@ -1,32 +1,47 @@
 
 <!-- 🌌 Background Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Sanika%20&color=0:0f2027,100:2c5364&fontColor=ffffff"/>
+</p>
+
+
+<!-- 🌌 Background Banner -->
 
 
 <h1 align="center">Heyy Buddy!!! Sanika Here</h1>
+<br>
+<hr style="border: 1px solid #444;"/>
 <h3 align="center">💻 Computer Engineering Student </h3>
+
 
 <!-- ✨ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Crafting+Modern+Web+Experiences;Building+Scalable+and+Smart+Solutions;Learning+Everyday%2C+Growing+Everyday;Turning+Ideas+into+Code" />
 </p>
 
-###
+<br>
+<hr style="border: 1px solid #444;"/>
+
 
 <div align="center">
   <img height="200" src="https://tse4.mm.bing.net/th/id/OIP.rW-Ik9l9mZPfrUC9fJFbZAHaHa?pid=ImgDet&w=184&h=184&c=7&o=7&rm=3"  />
 </div>
 
 ###
-
-###
+<br>
+<hr style="border: 1px solid #444;"/>
 
 <h2 align="left">About me</h2>
 
 ###
 
+
+
 <p align="left">📚 Currently learning Python 🐍 and diving into libraries like NumPy, Pandas, and Flask<br><br>🌐 Passionate about web development, building dynamic and user-friendly applications<br><br>💡 Love solving problems & experimenting with backend logic<br><br>🎯 Goal: Full-stack developer 🚀</p>
 
 ###
+<br>
+<hr style="border: 1px solid #444;"/>
 
 <h2 align="left">I code with</h2>
 
@@ -48,6 +63,7 @@
 
 ###
 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -59,6 +75,8 @@
 </div>
 
 ###
+<br>
+<hr style="border: 1px solid #444;"/>
 
 <h2 align="left">🚀 Projects</h2>
 
@@ -66,6 +84,8 @@
 
 <p align="center">🚧 Coming Soon...🚧<br>stay tuned...</p>
 
+<br>
+<hr style="border: 1px solid #444;"/>
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -73,7 +93,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<br>
+<hr style="border: 1px solid #444;"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-me/Omkar-me/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-me/Omkar-me/output/pacman-contribution-graph.svg">
@@ -82,6 +103,8 @@
 
 ###
 
+<br>
+<hr style="border: 1px solid #444;"/>
 <h2 align="left">Connect with me</h2>
 
 ###
@@ -96,4 +119,5 @@
 </div>
 
 ###
-
+<br>
+<hr style="border: 1px solid #444;"/>
